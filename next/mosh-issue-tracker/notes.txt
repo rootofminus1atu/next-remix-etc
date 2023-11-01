@@ -1,0 +1,11 @@
+useful packages: 
+- classnames - makes working with conditional classnames way easier
+- primsa - odm - needs a lot of setup
+- tailwind + daisyui
+- radixui - good for themes, has a ThemePanel component for easy customizatoin, but can be hell to customize with fonts etc
+- npm i --save react-simplemde-editor easymde
+- npm i react-hook-form - hook for forms or something to handle them easily
+- npm i axios - no. just use fetch
+- npm i @hookform/resolvers - validation for hookform stuff
+
+
